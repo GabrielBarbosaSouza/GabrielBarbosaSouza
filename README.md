@@ -18,15 +18,15 @@
 
 ```text
 ╔══════════════════════════════════════════════════════════════════╗
-║                    GABRIEL SOUZA // CORE                        ║
+║                     GABRIEL SOUZA // CORE                        ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║                                                                  ║
-║   [✓] COMPUTER SCIENCE ......................... ACTIVE           ║
-║   [✓] PYTHON .................................. ACTIVE           ║
-║   [✓] OBJECT-ORIENTED PROGRAMMING ............. ACTIVE           ║
-║   [✓] SQL ..................................... ACTIVE           ║
-║   [✓] COMPUTER NETWORKS ........................ ACTIVE           ║
-║   [✓] SOFTWARE DEVELOPMENT ..................... ACTIVE           ║
+║   [✓] COMPUTER SCIENCE ......................... ACTIVE          ║
+║   [✓] PYTHON ................................... ACTIVE          ║
+║   [✓] OBJECT-ORIENTED PROGRAMMING .............. ACTIVE          ║
+║   [✓] SQL ...................................... ACTIVE          ║
+║   [✓] COMPUTER NETWORKS ........................ ACTIVE          ║
+║   [✓] SOFTWARE DEVELOPMENT ..................... ACTIVE          ║
 ║   [✓] ARTIFICIAL INTELLIGENCE .................. RESEARCHING     ║
 ║                                                                  ║
 ║   STATUS: BUILDING                                               ║
@@ -47,30 +47,30 @@
 class GabrielSouza:
 
     def __init__(self):
-        self.name = "Gabriel Souza"
-        self.username = "GabrielBarbosaSouza"
-        self.degree = "Computer Science"
-        self.country = "Brazil"
+        self.nome = "Gabriel Souza"
+        self.apelido = "GabrielBarbosaSouza"
+        self.curso_faculdade = "Computer Science"
+        self.nacionalidade = "Brazil"
 
-        self.focus = [
-            "Software Development",
-            "Artificial Intelligence"
+        self.meu_foco = [
+            "Desenvolver Softwares",
+            "Inteligência Artificial"
         ]
 
-        self.languages = [
+        self.linguagens = [
             "Python",
             "SQL"
         ]
 
-        self.knowledge = [
-            "Object-Oriented Programming",
+        self.habilidades = [
+            "Programação Orientada a Objetos",
             "Computer Networks",
             "Git & GitHub",
-            "JavaScript (Basic)"
+            "JavaScript (Básico)"
         ]
 
-    def objective(self):
-        return "Build useful and intelligent software."
+    def meu_objetivo(self):
+        return "Construir softwares e ajudar no tratamento de dados com IA."
 ```
 
 Sou estudante de **Ciência da Computação**, com foco no desenvolvimento de **softwares** e na área de **Inteligência Artificial**.
@@ -121,14 +121,13 @@ Meu objetivo é evoluir como desenvolvedor e, no longo prazo, trabalhar na inter
 
 <div align="center">
 
-|         Área        |     Conhecimento     |
-| :-----------------: | :------------------: |
-|    🐍 **Python**    | ████████████████████ |
-|  🧩 **Python OOP**  | █████████████████░░░ |
+|         Área       |     Conhecimento     |
+| :-----------------:| :------------------: |
+|  🐍 **Python POO** | ████████████████████ |
 |     🗄️ **SQL**     | ████████████████░░░░ |
-|   🌐 **Networks**   | ███████████████░░░░░ |
-| 🔧 **Git / GitHub** | ███████████████░░░░░ |
-|  🟨 **JavaScript**  | █████░░░░░░░░░░░░░░░ |
+|   🌐 **Redes**     | ███████████████░░░░░ |
+| 🔧 **Git / GitHub**| ███████████████░░░░░ |
+|     🟨 **Web**     | ███████████████░░░░░ |
 
 </div>
 
@@ -200,10 +199,10 @@ gabriel@souza:~$ ./mission.sh
 ╰────────────────────────────────────────────────────╯
 
 [ SYSTEM ] Primary objective:
-           Build software that solves real problems.
+           Manipular dados usando Python e ajudar na criação de IA.
 
 [ SYSTEM ] Secondary objective:
-           Understand Artificial Intelligence deeply.
+           Criação de Softwares integrados com IA.
 
 [ SYSTEM ] Status: IN PROGRESS
 ```
@@ -281,11 +280,11 @@ gabriel@souza:~$ ./mission.sh
 ```text
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║              G A B R I E L   S O U Z A                     ║
+║                  G A B R I E L   S O U Z A                   ║
 ║                                                              ║
-║        COMPUTER SCIENCE • SOFTWARE • ARTIFICIAL INTELLIGENCE ║
+║    COMPUTER SCIENCE • SOFTWARE • ARTIFICIAL INTELLIGENCE     ║
 ║                                                              ║
-║                 [ SYSTEM STILL RUNNING ]                    ║
+║                 [ SYSTEM STILL RUNNING ]                     ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
