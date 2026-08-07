@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:00F7FF,100:7B2CFF&height=180&section=header&text=GABRIEL%20SOUZA&fontSize=45&fontColor=FFFFFF&fontAlignY=38&desc=CIÊNCIAS%20DA%20COMPUTAÇÃO%20%7C%20SOFTWARE%20%7C%20AI&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=900&color=00F7FF&center=true&vCenter=true&width=750&lines=%3E+Initializing+GabrielBarbosaSouza...;%3E+Computer+Science+Student;%3E+Python+%7C+OOP+%7C+SQL+%7C+Networks;%3E+Software+Development+%26+Artificial+Intelligence;%3E+Building+the+future%2C+one+line+at+a+time." alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=900&color=00F7FF&center=true&vCenter=true&width=750&lines=%3E+Initializing+GabrielBarbosaSouza...;%3E+Estudante+de+Ci%C3%AAncias+da+Computa%C3%A7%C3%A3o;%3E+Python+%7C+OOP+%7C+SQL+%7C+Redes;%3E+Desenvolvimento+de+Software+%26+Artificial+Intelligence." alt="Typing Animation"/>
 
 <br>
 
@@ -39,7 +39,7 @@
 
 ---
 
-# `01 // ABOUT ME`
+# `01 // SOBRE MIM`
 
 <img align="right" width="300" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/dev-working_rounded.gif"/>
 
@@ -85,7 +85,7 @@ Meu objetivo é evoluir como desenvolvedor e, no longo prazo, trabalhar na inter
 
 ---
 
-# `02 // CORE TECHNOLOGIES`
+# `02 // PRINCIPAIS TECNOLOGIAS`
 
 <div align="center">
 
@@ -117,7 +117,7 @@ Meu objetivo é evoluir como desenvolvedor e, no longo prazo, trabalhar na inter
 
 ---
 
-# `03 // KNOWLEDGE MATRIX`
+# `03 // CONHECIMENTOS`
 
 <div align="center">
 
@@ -133,7 +133,7 @@ Meu objetivo é evoluir como desenvolvedor e, no longo prazo, trabalhar na inter
 
 ---
 
-# `04 // DEVELOPMENT ENVIRONMENT`
+# `04 // PRINCIPAIS AMBIENTES DE TRABALHO`
 
 <div align="center">
 
@@ -148,7 +148,7 @@ Meu objetivo é evoluir como desenvolvedor e, no longo prazo, trabalhar na inter
 
 ---
 
-# `05 // PROJECT DATABASE`
+# `05 // PROJETOS`
 
 <div align="center">
 
@@ -177,7 +177,7 @@ Meu objetivo é evoluir como desenvolvedor e, no longo prazo, trabalhar na inter
 
 ---
 
-# `06 // CURRENT MISSION`
+# `06 // MISSÃO PRINCIPAL`
 
 ```bash
 gabriel@souza:~$ ./mission.sh
@@ -226,37 +226,7 @@ gabriel@souza:~$ ./mission.sh
 
 ---
 
-# `08 // ACTIVITY GRAPH`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielBarbosaSouza&bg_color=0D1117&color=00F7FF&line=7B2CFF&point=FFFFFF&area=true&hide_border=true" width="96%"/>
-
-</div>
-
----
-
-# `09 // TROPHIES`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=GabrielBarbosaSouza&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"/>
-
-</div>
-
----
-
-# `10 // CONTRIBUTION MATRIX`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/GabrielBarbosaSouza/GabrielBarbosaSouza/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="96%"/>
-
-</div>
-
----
-
-# `11 // CONNECT`
+# `08 // CONEXÕES`
 
 <div align="center">
 
@@ -264,7 +234,7 @@ gabriel@souza:~$ ./mission.sh
 <img src="https://img.shields.io/badge/GitHub-GabrielBarbosaSouza-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="[https://www.linkedin.com/](https://www.linkedin.com/in/gabriel-souza-678650352/)">
 <img src="https://img.shields.io/badge/LinkedIn-CONNECT-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
 </a>
 
