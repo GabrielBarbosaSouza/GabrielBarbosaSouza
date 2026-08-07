@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:00F7FF,100:7B2CFF&height=180&section=header&text=GABRIEL%20SOUZA&fontSize=45&fontColor=FFFFFF&fontAlignY=38&desc=COMPUTER%20SCIENCE%20%7C%20SOFTWARE%20%7C%20AI&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:00F7FF,100:7B2CFF&height=180&section=header&text=GABRIEL%20SOUZA&fontSize=45&fontColor=FFFFFF&fontAlignY=38&desc=CIÊNCIAS%20DA%20COMPUTAÇÃO%20%7C%20SOFTWARE%20%7C%20AI&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=900&color=00F7FF&center=true&vCenter=true&width=750&lines=%3E+Initializing+GabrielBarbosaSouza...;%3E+Computer+Science+Student;%3E+Python+%7C+OOP+%7C+SQL+%7C+Networks;%3E+Software+Development+%26+Artificial+Intelligence;%3E+Building+the+future%2C+one+line+at+a+time." alt="Typing Animation"/>
 
@@ -152,22 +152,18 @@ Meu objetivo é evoluir como desenvolvedor e, no longo prazo, trabalhar na inter
 
 <div align="center">
 
-<a href="https://github.com/GabrielBarbosaSouza">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielBarbosaSouza&repo=REPOSITORIO_1&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/GabrielBarbosaSouza/automacao-cadastro-de-produtos">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielBarbosaSouza&repo=automacao-cadastro-de-produtos&theme=tokyonight&hide_border=true"/>
 </a>
 
-<a href="https://github.com/GabrielBarbosaSouza">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielBarbosaSouza&repo=REPOSITORIO_2&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/ong-eg/SmartEco">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ong-eg&repo=SmartEco&theme=tokyonight&hide_border=true"/>
 </a>
 
 <br>
 
-<a href="https://github.com/GabrielBarbosaSouza">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielBarbosaSouza&repo=REPOSITORIO_3&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/GabrielBarbosaSouza">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielBarbosaSouza&repo=REPOSITORIO_4&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/GabrielBarbosaSouza/SISTEMA-DE-CHAMADOS">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielBarbosaSouza&repo=SISTEMA-DE-CHAMADOS&theme=tokyonight&hide_border=true"/>
 </a>
 
 <br><br>
@@ -177,6 +173,7 @@ Meu objetivo é evoluir como desenvolvedor e, no longo prazo, trabalhar na inter
 </a>
 
 </div>
+
 
 ---
 
