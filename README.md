@@ -2,11 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:00F7FF,100:7B2CFF&height=180&section=header&text=GABRIEL%20SOUZA&fontSize=45&fontColor=FFFFFF&fontAlignY=38&desc=CIÊNCIAS%20DA%20COMPUTAÇÃO%20%7C%20SOFTWARE%20%7C%20AI&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=900&color=00F7FF&center=true&vCenter=true&width=750&lines=%3E+Initializing+GabrielBarbosaSouza...;%3E+Estudante+de+Ci%C3%AAncias+da+Computa%C3%A7%C3%A3o;%3E+Python+%7C+OOP+%7C+SQL+%7C+Redes;%3E+Desenvolvimento+de+Software+%26+Artificial+Intelligence." alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=900&color=00FF88&center=true&vCenter=true&width=750&lines=%3E+Initializing+GabrielBarbosaSouza...;%3E+Estudante+de+Ci%C3%AAncias+da+Computa%C3%A7%C3%A3o;%3E+Python+%7C+OOP+%7C+SQL+%7C+Redes;%3E+Desenvolvimento+de+Software+%26+Artificial+Intelligence." alt="Typing Animation"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00F7FF?style=for-the-badge&logo=probot&logoColor=black"/>
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00FF88?style=for-the-badge&logo=probot&logoColor=black"/>
 <img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20%26%20AI-7B2CFF?style=for-the-badge&logo=googlebrain&logoColor=white"/>
 <img src="https://img.shields.io/badge/STATUS-LEARNING-00FF88?style=for-the-badge&logo=academia&logoColor=black"/>
 
@@ -49,11 +49,11 @@ class GabrielSouza:
     def __init__(self):
         self.nome = "Gabriel Souza"
         self.apelido = "GabrielBarbosaSouza"
-        self.curso_faculdade = "Computer Science"
+        self.curso_faculdade = "Ciência da Computação"
         self.nacionalidade = "Brazil"
 
         self.meu_foco = [
-            "Desenvolver Softwares",
+            "Desenvolvimento de Software",
             "Inteligência Artificial"
         ]
 
@@ -64,13 +64,13 @@ class GabrielSouza:
 
         self.habilidades = [
             "Programação Orientada a Objetos",
-            "Computer Networks",
+            "Redes de Computadores",
             "Git & GitHub",
             "JavaScript (Básico)"
         ]
 
     def meu_objetivo(self):
-        return "Construir softwares e ajudar no tratamento de dados com IA."
+        return "Desenvolver softwares e soluções utilizando IA."
 ```
 
 Sou estudante de **Ciência da Computação**, com foco no desenvolvimento de **softwares** e na área de **Inteligência Artificial**.
@@ -109,7 +109,7 @@ Meu objetivo é evoluir como desenvolvedor e, no longo prazo, trabalhar na inter
 
 ### `NETWORKING`
 
-<img src="https://img.shields.io/badge/Computer%20Networks-0D1117?style=for-the-badge&logo=cisco&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/Computer%20Networks-0D1117?style=for-the-badge&logo=cisco&logoColor=00FF88"/>
 
 </div>
 
@@ -196,10 +196,11 @@ gabriel@souza:~$ ./mission.sh
 ╰────────────────────────────────────────────────────╯
 
 [ SYSTEM ] Primary objective:
-           Manipular dados usando Python e ajudar na criação de IA.
+           Desenvolver softwares utilizando Python.
 
 [ SYSTEM ] Secondary objective:
-           Criação de Softwares integrados com IA.
+           Explorar Inteligência Artificial e
+           desenvolver soluções integradas com IA.
 
 [ SYSTEM ] Status: IN PROGRESS
 ```
@@ -212,7 +213,7 @@ gabriel@souza:~$ ./mission.sh
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielBarbosaSouza&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBarbosaSouza&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielBarbosaSouza&bg_color=0D1117&color=00FF88&line=00C853&point=FFFFFF&area=true&hide_border=true" width="96%"/>
 
 </div>
 
@@ -260,6 +261,6 @@ gabriel@souza:~$ ./mission.sh
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2CFF,50:00F7FF,100:050505&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:063B2A,50:00C853,100:00FF88&height=120&section=footer" width="100%"/>
 
 </div>
