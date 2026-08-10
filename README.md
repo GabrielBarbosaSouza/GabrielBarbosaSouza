@@ -47,8 +47,8 @@
 class GabrielSouza:
 
     def __init__(self):
-        self.nome = "Gabriel Souza"
-        self.apelido = "GabrielBarbosaSouza"
+        self.nome = "Gabriel Barbosa Souza"
+        self.apelido = "Biel"
         self.curso_faculdade = "Ciência da Computação"
         self.nacionalidade = "Brazil"
 
