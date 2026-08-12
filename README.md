@@ -152,15 +152,15 @@ Meu objetivo é evoluir como desenvolvedor e, no longo prazo, trabalhar na inter
 
 <div align="left">
 
-<a href="https://github.com/GabrielBarbosaSouza/automacao-cadastro-de-produtos">Automação - Cadastro de Produtos</a>
+<a href="https://github.com/GabrielBarbosaSouza/automacao-cadastro-de-produtos" color="fff">Automação - Cadastro de Produtos</a>
 
-<a href="https://github.com/ong-eg/SmartEco">Site institucional - SmartEco</a>
+<a href="https://github.com/ong-eg/SmartEco" color="fff">Site institucional - SmartEco</a>
 
-<a href="https://github.com/GabrielBarbosaSouza/SISTEMA-DE-CHAMADOS">Sistema de Chamados completo no Terminal</a>
+<a href="https://github.com/GabrielBarbosaSouza/SISTEMA-DE-CHAMADOS" color="fff">Sistema de Chamados completo no Terminal</a>
 
-<br><br>
+<br>
 
-<div align="center">>
+<div align="center">
     <a href="https://github.com/GabrielBarbosaSouza?tab=repositories">
     <img src="https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
     </a>
