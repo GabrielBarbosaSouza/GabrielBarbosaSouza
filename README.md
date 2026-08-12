@@ -152,19 +152,13 @@ Meu objetivo é evoluir como desenvolvedor e, no longo prazo, trabalhar na inter
 
 <div align="center">
 
-<a href="https://github.com/GabrielBarbosaSouza/automacao-cadastro-de-produtos">
-<img src="https://img.freepik.com/vetores-premium/icone-de-design-unico-do-site-de-compras_362714-6142.jpg"/>
-</a>
+<a href="https://github.com/GabrielBarbosaSouza/automacao-cadastro-de-produtos">Automação - Cadastro de Produtos</a>
 
-<a href="https://github.com/ong-eg/SmartEco">
-<img src="https://cdn-icons-png.flaticon.com/512/490/490091.png"/>
-</a>
+<a href="https://github.com/ong-eg/SmartEco">Site institucional - SmartEco</a>
 
 <br>
 
-<a href="https://github.com/GabrielBarbosaSouza/SISTEMA-DE-CHAMADOS">
-<img src="https://tse4.mm.bing.net/th/id/OIP.h8U4d2nRQ06tQy9ZmoBLUAHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3"/>
-</a>
+<a href="https://github.com/GabrielBarbosaSouza/SISTEMA-DE-CHAMADOS">Sistema de Chamados completo no Terminal</a>
 
 <br><br>
 
