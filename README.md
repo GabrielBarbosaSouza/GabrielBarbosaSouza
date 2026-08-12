@@ -150,13 +150,11 @@ Meu objetivo é evoluir como desenvolvedor e, no longo prazo, trabalhar na inter
 
 # `05 // PROJETOS`
 
-<div align="center">
+<div align="right">
 
 <a href="https://github.com/GabrielBarbosaSouza/automacao-cadastro-de-produtos">Automação - Cadastro de Produtos</a>
 
 <a href="https://github.com/ong-eg/SmartEco">Site institucional - SmartEco</a>
-
-<br>
 
 <a href="https://github.com/GabrielBarbosaSouza/SISTEMA-DE-CHAMADOS">Sistema de Chamados completo no Terminal</a>
 
