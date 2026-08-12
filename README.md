@@ -150,7 +150,7 @@ Meu objetivo é evoluir como desenvolvedor e, no longo prazo, trabalhar na inter
 
 # `05 // PROJETOS`
 
-<div align="right">
+<div align="left">
 
 <a href="https://github.com/GabrielBarbosaSouza/automacao-cadastro-de-produtos">Automação - Cadastro de Produtos</a>
 
@@ -160,10 +160,12 @@ Meu objetivo é evoluir como desenvolvedor e, no longo prazo, trabalhar na inter
 
 <br><br>
 
-<a href="https://github.com/GabrielBarbosaSouza?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-
+<div align="center">>
+    <a href="https://github.com/GabrielBarbosaSouza?tab=repositories">
+    <img src="https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
+    </a>
+</div>
+    
 </div>
 
 
