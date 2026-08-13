@@ -72,7 +72,7 @@ class GabrielSouza:
         ]
 
     def meu_objetivo(self):
-        return "Desenvolver softwares e soluções utilizando IA."
+        return "Desenvolver softwares e soluções integradas com IA."
 ```
 
 Sou estudante de **Ciência da Computação**, com foco no desenvolvimento de **softwares** e na área de **Inteligência Artificial**.
