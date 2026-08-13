@@ -59,14 +59,16 @@ class GabrielSouza:
 
         self.linguagens = [
             "Python",
-            "SQL"
+            "SQL",
+            "HTML",
+            "CSS",
+            "JavaScript (Básico)"
         ]
 
         self.habilidades = [
             "Programação Orientada a Objetos",
             "Redes de Computadores",
             "Git & GitHub",
-            "JavaScript (Básico)"
         ]
 
     def meu_objetivo(self):
