@@ -114,7 +114,7 @@ Meu objetivo é evoluir como desenvolvedor e, no longo prazo, trabalhar na inter
 
 ### `DEVELOPMENT`
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
 
 <br><br>
 
