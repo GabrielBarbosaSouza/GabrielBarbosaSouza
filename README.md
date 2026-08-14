@@ -48,9 +48,9 @@ class GabrielSouza:
 
     def __init__(self):
         self.nome = "Gabriel Barbosa Souza"
-        self.apelido = "Biel"
+        self.apelido = "Gabriel Souza"
         self.curso_faculdade = "Ciência da Computação"
-        self.nacionalidade = "Brazil"
+        self.nacionalidade = "Brasil"
 
         self.meu_foco = [
             "Desenvolvimento de Software",
@@ -65,6 +65,15 @@ class GabrielSouza:
             "JavaScript (Básico)"
         ]
 
+        self.frameworks_e_bibliotecas = [
+            "Flask",
+            "Bootstrap",
+            "Rich",
+            "InquirerPY",
+            "Pandas",
+            "NumPy"
+        ]
+    
         self.habilidades = [
             "Programação Orientada a Objetos",
             "Redes de Computadores",
