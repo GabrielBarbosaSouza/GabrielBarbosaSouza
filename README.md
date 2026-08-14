@@ -17,22 +17,22 @@
 <div align="center">
 
 ```text
-                                        ╔══════════════════════════════════════════════════════════════════╗
-                                        ║                     GABRIEL SOUZA // CORE                        ║
-                                        ╠══════════════════════════════════════════════════════════════════╣
-                                        ║                                                                  ║
-                                        ║   [✓] COMPUTER SCIENCE ......................... ACTIVE          ║
-                                        ║   [✓] PYTHON ................................... ACTIVE          ║
-                                        ║   [✓] OBJECT-ORIENTED PROGRAMMING .............. ACTIVE          ║
-                                        ║   [✓] SQL ...................................... ACTIVE          ║
-                                        ║   [✓] COMPUTER NETWORKS ........................ ACTIVE          ║
-                                        ║   [✓] SOFTWARE DEVELOPMENT ..................... ACTIVE          ║
-                                        ║   [✓] ARTIFICIAL INTELLIGENCE .................. RESEARCHING     ║
-                                        ║                                                                  ║
-                                        ║   STATUS: BUILDING                                               ║
-                                        ║   DIRECTIVE: CREATE • LEARN • SOLVE                              ║
-                                        ║                                                                  ║
-                                        ╚══════════════════════════════════════════════════════════════════╝
+                                      ╔══════════════════════════════════════════════════════════════════╗
+                                      ║                     GABRIEL SOUZA // CORE                        ║
+                                      ╠══════════════════════════════════════════════════════════════════╣
+                                      ║                                                                  ║
+                                      ║   [✓] COMPUTER SCIENCE ......................... ACTIVE          ║
+                                      ║   [✓] PYTHON ................................... ACTIVE          ║
+                                      ║   [✓] OBJECT-ORIENTED PROGRAMMING .............. ACTIVE          ║
+                                      ║   [✓] SQL ...................................... ACTIVE          ║
+                                      ║   [✓] COMPUTER NETWORKS ........................ ACTIVE          ║
+                                      ║   [✓] SOFTWARE DEVELOPMENT ..................... ACTIVE          ║
+                                      ║   [✓] ARTIFICIAL INTELLIGENCE .................. RESEARCHING     ║
+                                      ║                                                                  ║
+                                      ║   STATUS: BUILDING                                               ║
+                                      ║   DIRECTIVE: CREATE • LEARN • SOLVE                              ║
+                                      ║                                                                  ║
+                                      ╚══════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -242,15 +242,15 @@ gabriel@souza:~$ ./mission.sh
 <div align="center">
 
 ```text
-                                        ╔══════════════════════════════════════════════════════════════╗
-                                        ║                                                              ║
-                                        ║                  G A B R I E L   S O U Z A                   ║
-                                        ║                                                              ║
-                                        ║    COMPUTER SCIENCE • SOFTWARE • ARTIFICIAL INTELLIGENCE     ║
-                                        ║                                                              ║
-                                        ║                 [ SYSTEM STILL RUNNING ]                     ║
-                                        ║                                                              ║
-                                        ╚══════════════════════════════════════════════════════════════╝
+                                      ╔══════════════════════════════════════════════════════════════╗
+                                      ║                                                              ║
+                                      ║                  G A B R I E L   S O U Z A                   ║
+                                      ║                                                              ║
+                                      ║    COMPUTER SCIENCE • SOFTWARE • ARTIFICIAL INTELLIGENCE     ║
+                                      ║                                                              ║
+                                      ║                 [ SYSTEM STILL RUNNING ]                     ║
+                                      ║                                                              ║
+                                      ╚══════════════════════════════════════════════════════════════╝
 ```
 
 <img src="https://komarev.com/ghpvc/?username=GabrielBarbosaSouza&style=for-the-badge&color=00F7FF&label=PROFILE%20VIEWS"/>
