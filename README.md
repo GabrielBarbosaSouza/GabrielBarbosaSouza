@@ -221,14 +221,6 @@ gabriel@souza:~$ ./mission.sh
 
 </div>
 
-<br>
-
-<div align="center">
-
-
-
-</div>
-
 ---
 
 # `08 // CONEXÕES`
