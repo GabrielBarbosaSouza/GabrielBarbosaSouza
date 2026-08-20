@@ -225,7 +225,7 @@ gabriel@souza:~$ ./mission.sh
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=GabrielBarbosaSouza&theme=algolia&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=GabrielBarbosaSouza&theme=tokyonight&hide_border=true"/>
 
 </div>
 
