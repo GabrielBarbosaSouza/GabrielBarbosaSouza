@@ -62,7 +62,7 @@ class GabrielSouza:
             "SQL",
             "HTML",
             "CSS",
-            "C" (básico)
+            "C (básico)"
         ]
 
         self.frameworks_e_bibliotecas = [
