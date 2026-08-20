@@ -244,7 +244,7 @@ gabriel@souza:~$ ./mission.sh
 ---
 
 <div align="center">
-<div align="center">
+
 ```text
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
@@ -256,7 +256,7 @@ gabriel@souza:~$ ./mission.sh
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
-</div>
+
 <img src="https://komarev.com/ghpvc/?username=GabrielBarbosaSouza&style=for-the-badge&color=3776AB&label=PROFILE%20VIEWS"/>
 
 <br><br>
