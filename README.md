@@ -215,7 +215,7 @@ gabriel@souza:~$ ./mission.sh
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielBarbosaSouza&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true&count_private=true"/>
+
 
 <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielBarbosaSouza&bg_color=0D1117&color=4CAF50&line=4CAF50&point=FFD43B&area=true&hide_border=true" width="96%"/>
 
