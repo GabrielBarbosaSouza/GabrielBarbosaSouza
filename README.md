@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:063B2A,50:4CAF50,100:4CAF50&height=200&section=header&text=GABRIEL%20SOUZA&fontSize=45&fontColor=FFFFFF&fontAlignY=38&desc=CIÊNCIAS%20DA%20COMPUTAÇÃO%20%7C%20SOFTWARE%20%7C%20AI&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:063B2A,50:4CAF50,100:4CAF50&height=230&section=header&text=GABRIEL%20SOUZA&fontSize=45&fontColor=FFFFFF&fontAlignY=38&desc=CIÊNCIAS%20DA%20COMPUTAÇÃO%20%7C%20SOFTWARE%20%7C%20AI&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=900&color=FFD43B&center=true&vCenter=true&width=750&lines=%3E+Estudante+de+Ci%C3%AAncias+da+Computa%C3%A7%C3%A3o;%3E+Python+POO+%7C+SQL+%7C+Redes;%3E+Desenvolvimento+de+Software+%26+Artificial+Intelligence." alt="Typing Animation"/>
 
