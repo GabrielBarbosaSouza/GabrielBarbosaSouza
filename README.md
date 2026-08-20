@@ -226,12 +226,14 @@ gabriel@souza:~$ ./mission.sh
 # `08 // CONEXÕES`
 
 <div align="center">
-
-<a href="https://github.com/GabrielBarbosaSouza" target="_blank">
+    
+<p>Pressione Ctrl + clique do mouse para abrir cada conexão em uma guia diferente.</p>
+    
+<a href="https://github.com/GabrielBarbosaSouza">
 <img src="https://img.shields.io/badge/GitHub-GabrielBarbosaSouza-0D1117?style=for-the-badge&logo=github&logoColor=3776AB"/>
 </a>
 
-<a href="https://www.linkedin.com/in/gabriel-souza-678650352/" target="_blank">
+<a href="https://www.linkedin.com/in/gabriel-souza-678650352/">
 <img src="https://img.shields.io/badge/LinkedIn-CONNECT-0D1117?style=for-the-badge&logo=linkedin&logoColor=3776AB"/>
 </a>
 
