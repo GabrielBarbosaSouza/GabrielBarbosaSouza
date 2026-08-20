@@ -227,9 +227,9 @@ gabriel@souza:~$ ./mission.sh
 
 <div align="center">
     
-<h3 align="center">
+<h4 align="center">
   <b>PRESSIONE CTRL + CLIQUE DO MOUSE PARA ABRIR CADA CONEXÃO EM UMA GUIA DIFERENTE.</b>
-</h3>
+</h4>
     
 <a href="https://github.com/GabrielBarbosaSouza">
 <img src="https://img.shields.io/badge/GitHub-GabrielBarbosaSouza-0D1117?style=for-the-badge&logo=github&logoColor=3776AB"/>
@@ -244,7 +244,7 @@ gabriel@souza:~$ ./mission.sh
 ---
 
 <div align="center">
-
+<div align="center">
 ```text
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
@@ -256,7 +256,7 @@ gabriel@souza:~$ ./mission.sh
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
-
+</div>
 <img src="https://komarev.com/ghpvc/?username=GabrielBarbosaSouza&style=for-the-badge&color=3776AB&label=PROFILE%20VIEWS"/>
 
 <br><br>
