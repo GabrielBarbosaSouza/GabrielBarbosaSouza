@@ -228,7 +228,7 @@ gabriel@souza:~$ ./mission.sh
 <div align="center">
     
 <p align="center">
-  <sub><b>Pressione Ctrl + clique do mouse para abrir cada conexão em uma guia diferente.</b></sub>
+  <b>PRESSIONE CTRL + CLIQUE DO MOUSE PARA ABRIR CADA CONEXÃO EM UMA GUIA DIFERENTE.</b>
 </p>
     
 <a href="https://github.com/GabrielBarbosaSouza">
