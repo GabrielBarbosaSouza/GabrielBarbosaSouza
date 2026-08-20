@@ -227,7 +227,9 @@ gabriel@souza:~$ ./mission.sh
 
 <div align="center">
     
-<p>Pressione Ctrl + clique do mouse para abrir cada conexão em uma guia diferente.</p>
+<p align="center">
+  <sub><b>Pressione Ctrl + clique do mouse para abrir cada conexão em uma guia diferente.</b></sub>
+</p>
     
 <a href="https://github.com/GabrielBarbosaSouza">
 <img src="https://img.shields.io/badge/GitHub-GabrielBarbosaSouza-0D1117?style=for-the-badge&logo=github&logoColor=3776AB"/>
