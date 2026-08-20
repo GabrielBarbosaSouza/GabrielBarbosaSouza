@@ -62,7 +62,7 @@ class GabrielSouza:
             "SQL",
             "HTML",
             "CSS",
-            "JavaScript (Básico)"
+            "C" (básico)
         ]
 
         self.frameworks_e_bibliotecas = [
@@ -102,7 +102,7 @@ Meu objetivo é evoluir como desenvolvedor e, no longo prazo, trabalhar na inter
 
 ### `PROGRAMMING`
 
-<img src="https://skillicons.dev/icons?i=python,js&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,c&theme=dark"/>
 
 <br><br>
 
