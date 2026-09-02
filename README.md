@@ -14,32 +14,7 @@
 
 ---
 
-<div align="center">
-
-```text
-╔══════════════════════════════════════════════════════════════════╗
-║                     GABRIEL SOUZA // CORE                        ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║   [✓] COMPUTER SCIENCE ......................... ACTIVE          ║
-║   [✓] PYTHON ................................... ACTIVE          ║
-║   [✓] OBJECT-ORIENTED PROGRAMMING .............. ACTIVE          ║
-║   [✓] SQL ...................................... ACTIVE          ║
-║   [✓] COMPUTER NETWORKS ........................ ACTIVE          ║
-║   [✓] SOFTWARE DEVELOPMENT ..................... ACTIVE          ║
-║   [✓] ARTIFICIAL INTELLIGENCE .................. RESEARCHING     ║
-║                                                                  ║
-║   STATUS: BUILDING                                               ║
-║   DIRECTIVE: CREATE • LEARN • SOLVE                              ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-# `01 // SOBRE MIM`
+# `SOBRE MIM`
 
 <img align="right" width="300" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/dev-working_rounded.gif"/>
 
@@ -97,7 +72,7 @@ Meu objetivo é evoluir como desenvolvedor e, no longo prazo, trabalhar na inter
 
 ---
 
-# `02 // PRINCIPAIS TECNOLOGIAS`
+# `PRINCIPAIS TECNOLOGIAS`
 
 <div align="center">
 
@@ -129,7 +104,7 @@ Meu objetivo é evoluir como desenvolvedor e, no longo prazo, trabalhar na inter
 
 ---
 
-# `03 // CONHECIMENTOS`
+# `CONHECIMENTOS`
 
 <div align="center">
 
@@ -159,7 +134,7 @@ Meu objetivo é evoluir como desenvolvedor e, no longo prazo, trabalhar na inter
 
 ---
 
-# `05 // PROJETOS`
+# `PROJETOS`
 
 <div align="left">
 
@@ -182,7 +157,7 @@ Meu objetivo é evoluir como desenvolvedor e, no longo prazo, trabalhar na inter
 
 ---
 
-# `06 // MISSÃO PRINCIPAL`
+# `MISSÃO PRINCIPAL`
 
 ```bash
 gabriel@souza:~$ ./mission.sh
@@ -212,7 +187,7 @@ gabriel@souza:~$ ./mission.sh
 
 ---
 
-# `07 // GITHUB PERFORMANCE`
+# `GITHUB PERFORMANCE`
 
 <div align="center">
 
@@ -224,7 +199,7 @@ gabriel@souza:~$ ./mission.sh
 
 ---
 
-# `08 // CONEXÕES`
+# `CONEXÕES`
 
 <div align="center">
     
