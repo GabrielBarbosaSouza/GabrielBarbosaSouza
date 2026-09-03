@@ -142,7 +142,7 @@ Meu objetivo é evoluir como desenvolvedor e, no longo prazo, trabalhar na inter
 
 <a href="https://github.com/ong-eg/SmartEco" color="fff">Site institucional - SmartEco</a>
 
-<a href="https://github.com/GabrielBarbosaSouza/SISTEMA-DE-CHAMADOS" color="fff">Sistema de Chamados completo no Terminal</a>
+<a href="https://github.com/GabrielBarbosaSouza/SISTEMA-DE-CHAMADOS-V2" color="fff">SisChamados - Sistema CRUD de chamados</a>
 
 <br>
 
