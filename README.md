@@ -187,18 +187,6 @@ gabriel@souza:~$ ./mission.sh
 
 ---
 
-# `GITHUB PERFORMANCE`
-
-<div align="center">
-
-
-
-<img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielBarbosaSouza&bg_color=0D1117&color=4CAF50&line=4CAF50&point=FFD43B&area=true&hide_border=true" width="96%"/>
-
-</div>
-
----
-
 # `CONEXÕES`
 
 <div align="center">
