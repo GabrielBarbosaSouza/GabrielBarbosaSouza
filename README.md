@@ -120,7 +120,7 @@ Meu objetivo é evoluir como desenvolvedor e, no longo prazo, trabalhar na inter
 
 ---
 
-# `04 // PRINCIPAIS AMBIENTES DE TRABALHO`
+# `PRINCIPAIS AMBIENTES DE TRABALHO`
 
 <div align="center">
 
