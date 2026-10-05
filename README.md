@@ -36,7 +36,8 @@ class GabrielSouza:
             "SQL",
             "HTML",
             "CSS",
-            "C (básico)"
+            "C (básico)",
+            "Delphi (Object Pascal)"
         ]
 
         self.frameworks_e_bibliotecas = [
@@ -77,6 +78,7 @@ Meu objetivo é evoluir como desenvolvedor e, no longo prazo, trabalhar na inter
 ### `PROGRAMMING`
 
 <img src="https://skillicons.dev/icons?i=python,c&theme=dark"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/delphi/delphi-original.svg" height="48"/>
 
 <br><br>
 
