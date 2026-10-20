@@ -8,6 +8,10 @@
 <img src="https://img.shields.io/badge/status-em%20evolu%C3%A7%C3%A3o-21262D?style=flat-square&labelColor=0D1117&color=30363D"/>
 <img src="https://img.shields.io/badge/UNIP-S%C3%A3o%20Jos%C3%A9%20do%20Rio%20Preto-21262D?style=flat-square&labelColor=0D1117&color=30363D"/>
 
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1200&color=8B949E&center=true&vCenter=true&width=520&height=30&lines=Desenvolvimento+de+Software;Intelig%C3%AAncia+Artificial;Python+%C2%B7+Flask+%C2%B7+SQL"/>
+
 </div>
 
 <br>
@@ -16,7 +20,7 @@
 
 Estudante de **Ciência da Computação** na UNIP (São José do Rio Preto), com foco em desenvolvimento de software e Inteligência Artificial.
 
-Minha principal linguagem é **Python**, com ênfase em Programação Orientada a Objetos, além de conhecimentos em **SQL** e **Redes de Computadores**. Gosto de entender como as coisas funcionam por baixo da abstração e transformar conhecimento em projetos práticos.
+Minha principal linguagem é **Python**, com ênfase em Programação Orientada a Objetos, e Delphi, para a criação de aplicações em Windows (futuramente irei aprender C# com .NET) além de conhecimentos em **SQL** e **Redes de Computadores**. Gosto de entender como as coisas funcionam por baixo da abstração e transformar conhecimento em projetos práticos.
 
 **Objetivo:** evoluir como desenvolvedor e, no longo prazo, atuar na interseção entre engenharia de software e Inteligência Artificial.
 
@@ -72,6 +76,21 @@ Minha principal linguagem é **Python**, com ênfase em Programação Orientada 
 
 **Objetivo principal:** desenvolver softwares utilizando Python.
 **Objetivo secundário:** explorar Inteligência Artificial e criar soluções integradas com IA.
+
+<br>
+
+## Estatísticas
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=GabrielBarbosaSouza&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E6EDF3&text_color=8B949E&icon_color=8B949E&locale=pt-br"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBarbosaSouza&layout=compact&hide_border=true&bg_color=0D1117&title_color=E6EDF3&text_color=8B949E&langs_count=6&locale=pt-br"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielBarbosaSouza&bg_color=0D1117&color=8B949E&line=E6EDF3&point=E6EDF3&area=true&area_color=21262D&hide_border=true&hide_title=true" width="100%"/>
+
+</div>
 
 <br>
 
