@@ -30,7 +30,7 @@ Minha principal linguagem é **Python**, com ênfase em Programação Orientada 
 
 | Categoria | Tecnologias |
 | :-- | :-- |
-| **Linguagens** | Python · SQL · HTML · CSS · C (básico) · Delphi (Object Pascal) |
+| **Linguagens** | Python · SQL · HTML · CSS · C (básico) · JavaScript (básico) · Delphi (Object Pascal) |
 | **Frameworks e bibliotecas** | Flask · Bootstrap · Pandas · NumPy · Rich · InquirerPY |
 | **Conceitos** | Programação Orientada a Objetos · Redes de Computadores · Git & GitHub |
 | **Ferramentas** | Git · GitHub · VS Code |
@@ -39,7 +39,7 @@ Minha principal linguagem é **Python**, com ênfase em Programação Orientada 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,flask,html,css,mysql,postgres,git,github,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,html,css,c,javascript,flask,postgres,git,github,vscode&theme=dark"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/delphi/delphi-original.svg" height="48"/>
 
 > JavaScript aparece apenas como conhecimento básico. Meu foco principal não é desenvolvimento web/front-end.
