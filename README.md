@@ -20,7 +20,7 @@
 
 Estudante de **Ciência da Computação** na UNIP (São José do Rio Preto), com foco em desenvolvimento de software e Inteligência Artificial.
 
-Minha principal linguagem é **Python**, com ênfase em Programação Orientada a Objetos, e Delphi, para a criação de aplicações em Windows (futuramente irei aprender C# com .NET) além de conhecimentos em **SQL** e **Redes de Computadores**. Gosto de entender como as coisas funcionam por baixo da abstração e transformar conhecimento em projetos práticos.
+Minha principal linguagem é **Python**, com ênfase em Programação Orientada a Objetos, além de conhecimentos em **SQL** e **Redes de Computadores**. Gosto de entender como as coisas funcionam por baixo da abstração e transformar conhecimento em projetos práticos.
 
 **Objetivo:** evoluir como desenvolvedor e, no longo prazo, atuar na interseção entre engenharia de software e Inteligência Artificial.
 
@@ -30,14 +30,14 @@ Minha principal linguagem é **Python**, com ênfase em Programação Orientada 
 
 | Categoria | Tecnologias |
 | :-- | :-- |
-| **Linguagens** | Python · SQL · HTML · CSS · C (básico) · JavaScript (básico) · Delphi (Object Pascal) |
+| **Linguagens** | Python · SQL · HTML · CSS · C (básico) · Delphi (Object Pascal) |
 | **Frameworks e bibliotecas** | Flask · Bootstrap · Pandas · NumPy · Rich · InquirerPY |
 | **Conceitos** | Programação Orientada a Objetos · Redes de Computadores · Git & GitHub |
 | **Ferramentas** | Git · GitHub · VS Code |
 
-<div align="left">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,javascript,flask,html,css,mysql,postgres,git,github,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,c,flask,html,css,mysql,postgres,git,github,vscode&theme=dark"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/delphi/delphi-original.svg" height="48"/>
 
 </div>
