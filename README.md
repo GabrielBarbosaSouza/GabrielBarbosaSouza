@@ -30,14 +30,14 @@ Minha principal linguagem é **Python**, com ênfase em Programação Orientada 
 
 | Categoria | Tecnologias |
 | :-- | :-- |
-| **Linguagens** | Python · SQL · HTML · CSS · C (básico) · Delphi (Object Pascal) |
+| **Linguagens** | Python · SQL · HTML · CSS · C (básico) · JavaScript (básico) · Delphi (Object Pascal) |
 | **Frameworks e bibliotecas** | Flask · Bootstrap · Pandas · NumPy · Rich · InquirerPY |
 | **Conceitos** | Programação Orientada a Objetos · Redes de Computadores · Git & GitHub |
 | **Ferramentas** | Git · GitHub · VS Code |
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=python,c,flask,html,css,mysql,postgres,git,github,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,c,javascript,flask,html,css,mysql,postgres,git,github,vscode&theme=dark"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/delphi/delphi-original.svg" height="48"/>
 
 </div>
