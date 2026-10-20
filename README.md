@@ -35,14 +35,15 @@ Minha principal linguagem é **Python**, com ênfase em Programação Orientada 
 | **Conceitos** | Programação Orientada a Objetos · Redes de Computadores · Git & GitHub |
 | **Ferramentas** | Git · GitHub · VS Code |
 
+<br>
+
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,c,flask,html,css,mysql,postgres,git,github,vscode&theme=dark"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/delphi/delphi-original.svg" height="48"/>
 
-</div>
-
 > JavaScript aparece apenas como conhecimento básico. Meu foco principal não é desenvolvimento web/front-end.
+</div>
 
 <br>
 
